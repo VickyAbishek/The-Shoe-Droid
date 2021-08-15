@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="continue_text">Continue</string>
+    <string name="view_a_wide_collection_of_shoes">View a wide collection of shoes</string>
+    <string name="easily_import_your_collections">Easily import your collections</string>
 </resources>
